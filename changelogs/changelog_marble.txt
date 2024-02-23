@@ -2,3 +2,6 @@ Highlights & Device Specific Changes:
 Build type: Stable
 Device: Poco F5
 Device maintainer: Prajwal x Nitish
+
+=====  22 Febraury 2024 =====
+* Initial Build
