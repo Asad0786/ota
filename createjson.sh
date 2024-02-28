@@ -4,10 +4,10 @@
 
 # Modify values below
 # Leave blank if not used
-codename="" # devon
-devicename="" # Moto G32
-maintainer="" # Ayush x José
-zip="" # GenesisOS-Utopia-v1.0-devon-OFFICIAL-20240131-1953.zip
+codename="alioth" # devon
+devicename="Mi 11x" # Moto G32
+maintainer="Yoriscape x Pain" # Ayush x José
+zip="GenesisOS-Utopia-v1.0-alioth-OFFICIAL-20240228-0143.zip" # GenesisOS-Utopia-v1.0-devon-OFFICIAL-20240131-1953.zip
 
 
 # Don't modify from here
