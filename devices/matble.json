@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+        "datetime": ,
+	"filename": "GenesisOS-Utopia-v1.0-marble-OFFICIAL-20240303-0954.zip",
+	"id": "",
+	"size": ,
+        "url": "https://dl.genesisos.dev/0:/matble/GenesisOS-Utopia-v1.0-marble-OFFICIAL-20240303-0954.zip",
+        "version": "v1.0",
+	"devicename": "Poco F5",
+	"maintainer": "Prajwal x Nitish x Talha"
+    }
+  ]
+}

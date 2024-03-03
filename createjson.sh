@@ -4,10 +4,10 @@
 
 # Modify values below
 # Leave blank if not used
-codename="munch" # devon
-devicename="Poco F4" # Moto G32
-maintainer="Yoriscape x Asad" # Ayush x José
-zip="GenesisOS-Utopia-v1.0-munch-OFFICIAL-20240228-0907.zip" # GenesisOS-Utopia-v1.0-devon-OFFICIAL-20240131-1953.zip
+codename="marble" # devon
+devicename="Poco F5" # Moto G32
+maintainer="Prajwal x Nitish x Talha" # Ayush x José
+zip="GenesisOS-Utopia-v1.0-marble-OFFICIAL-20240303-0954.zip" # GenesisOS-Utopia-v1.0-devon-OFFICIAL-20240131-1953.zip
 
 
 # Don't modify from here
